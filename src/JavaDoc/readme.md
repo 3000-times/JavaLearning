@@ -1,1 +1,1 @@
-#JavaDoc的实例来帮助理解
+通过JavaDoc实例，帮助理解JavaDoc
